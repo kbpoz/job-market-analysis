@@ -22,6 +22,3 @@ The project delivers insights into job requirements, technologies, and salary ex
 
 ## Usage
 Open the notebook `nofluffjobs_analysis_scrape.ipynb` and run the cells step by step. Make sure you have installed the required Python packages.
-
-## License
-This work was prepared as part of a university project and is intended for educational use.
